@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 /**
  * Main Application Class - The entry point of the program.

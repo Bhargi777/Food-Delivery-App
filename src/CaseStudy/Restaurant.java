@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 import java.util.List;
 

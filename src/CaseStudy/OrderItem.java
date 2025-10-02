@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 /**
  * A helper class to store a selected menu item along with the restaurant it came from.

@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 /**
  * A simple container for the sorted list of restaurants.

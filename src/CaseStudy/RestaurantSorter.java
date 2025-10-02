@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 /**
  * Handles sorting the restaurant data using a custom-implemented Insertion Sort.

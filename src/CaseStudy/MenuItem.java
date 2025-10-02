@@ -1,4 +1,4 @@
-package Sample;
+package CaseStudy;
 
 /**
  * Data Model for a Menu Item.
