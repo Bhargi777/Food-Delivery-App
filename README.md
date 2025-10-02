@@ -39,7 +39,7 @@ FoodDeliveryApp/
 │       ├── ApplicationController.java
 │       ├── CustomerController.java
 │       └── FoodDeliveryApp.java
-├── bin/ (created after compilation)
+├── bin/ 
 └── README.md
 ```
 
