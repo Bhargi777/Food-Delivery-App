@@ -22,3 +22,5 @@ public class MenuItem {
         return String.format("%-25s - $%.2f", name, price);
     }
 }
+//javac -d . src/foodApplication/*.java src/foodApplication/*/*.java
+//java foodApplication.FoodDeliveryApp
