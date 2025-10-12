@@ -186,22 +186,6 @@ The application uses a segment tree data structure to efficiently query restaura
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-##  Future Enhancements
-
-- [ ] GUI implementation with JavaFX or Swing
-- [ ] Database integration for persistent data storage
-- [ ] User authentication and profiles
-- [ ] Real-time order tracking
-- [ ] Payment gateway integration
-- [ ] Restaurant ratings and reviews system
-- [ ] Delivery time estimation
-- [ ] Multi-language support
-
-##  Known Issues
-
-- Console input validation could be enhanced for better user experience
-- Limited error handling for edge cases in segment tree operations
-
 ##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
