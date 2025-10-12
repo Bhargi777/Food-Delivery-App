@@ -1,8 +1,8 @@
-# Food Delivery Application 🍕
+# Food Delivery Application 
 
 A console-based food delivery application built in Java with advanced data structures for efficient restaurant search and order management.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -14,7 +14,7 @@ A console-based food delivery application built in Java with advanced data struc
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ Features
+##  Features
 
 ### Customer Features
 - **Location-based Restaurant Search**: Find restaurants within a specified radius using segment tree algorithm
@@ -33,7 +33,7 @@ A console-based food delivery application built in Java with advanced data struc
 - **Input Validation**: Robust error handling for user inputs
 - **Memory Efficient**: Optimized data structures for performance
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 foodApplication/
@@ -55,20 +55,20 @@ foodApplication/
 └── .gitignore
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Java 8+**: Core programming language
 - **Data Structures**: Segment Tree for efficient range queries
 - **Design Patterns**: MVC (Model-View-Controller) architecture
 - **Java Collections**: ArrayList, List interfaces for data management
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
 - Command line terminal or Java IDE (Eclipse, IntelliJ IDEA, VS Code)
 - Git (for version control)
 
-## 🚀 Installation
+##  Installation
 
 ### Option 1: Command Line
 
@@ -96,7 +96,7 @@ java foodApplication.FoodDeliveryApp
 3. Ensure the package structure matches the directory layout
 4. Build and run `FoodDeliveryApp.java`
 
-## 🎯 Usage
+##  Usage
 
 ### Starting the Application
 
@@ -147,7 +147,7 @@ Success! We found 3 restaurant(s) for you:
 3. The Salad Bar
 ```
 
-## 🏗️ Classes Overview
+##  Classes Overview
 
 ### Model Layer
 - **MenuItem**: Represents individual food items with name and price
@@ -164,7 +164,7 @@ Success! We found 3 restaurant(s) for you:
 - **ApplicationController**: Manages main application flow and admin operations
 - **CustomerController**: Handles all customer-facing functionality
 
-## 🔧 Key Algorithms
+##  Key Algorithms
 
 ### Segment Tree Implementation
 The application uses a segment tree data structure to efficiently query restaurants within a location range:
@@ -178,7 +178,7 @@ The application uses a segment tree data structure to efficiently query restaura
 - Supports range queries for location-based filtering
 - Efficiently handles overlapping search ranges
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -186,7 +186,7 @@ The application uses a segment tree data structure to efficiently query restaura
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 Future Enhancements
+##  Future Enhancements
 
 - [ ] GUI implementation with JavaFX or Swing
 - [ ] Database integration for persistent data storage
@@ -197,16 +197,16 @@ The application uses a segment tree data structure to efficiently query restaura
 - [ ] Delivery time estimation
 - [ ] Multi-language support
 
-## 🐛 Known Issues
+##  Known Issues
 
 - Console input validation could be enhanced for better user experience
 - Limited error handling for edge cases in segment tree operations
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Team Members & Contributions
+##  Team Members & Contributions
 
 This project was developed with a team-based approach:
 
@@ -214,15 +214,3 @@ This project was developed with a team-based approach:
 - **Team Member 2**: Segment Tree & Search Algorithm Implementation  
 - **Team Member 3**: Main Application Flow & Admin Panel
 - **Team Member 4**: Customer-Facing Experience & UI
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/food-delivery-app/issues) section
-2. Create a new issue with detailed description
-3. Contact the development team
-
----
-
-**Made with ❤️ by the Food Delivery App Team**
